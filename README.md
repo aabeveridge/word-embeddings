@@ -12,4 +12,4 @@ Additionally, there is an updated rvest example file included with this tutorial
 - Continue to extend scraping dataset in some form related to your project
 - Pre-process text for text2vec
 - Construct term co-occurance matrix
-- Test word context/analogies
+- Test word contexts/analogies
